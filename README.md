@@ -2,8 +2,8 @@
 
 
 ## Resources
-🤗 [ViT Hugging Face](https://huggingface.co/docs/transformers/main/en/model_doc/vit)
+🤗 [ViT](https://huggingface.co/docs/transformers/main/en/model_doc/vit)
 
-🤗 [ViTDet Hugging Face](https://huggingface.co/docs/transformers/main/en/model_doc/vitdet)
+🤗 [ViTDet](https://huggingface.co/docs/transformers/main/en/model_doc/vitdet)
 
 🤗 [YOLOS](https://huggingface.co/docs/transformers/main/en/model_doc/yolos)
